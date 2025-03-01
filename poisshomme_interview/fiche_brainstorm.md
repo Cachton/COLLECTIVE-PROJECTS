@@ -4,7 +4,8 @@ Ici sont les entrées plus ou moins détaillées d'idées de bits possibles pour
 
 <h3> LA SCÈNE</h3>
   -La table <br>
-  C'est pas encore décidé si la table va être une vraie table qui se pete facilement ou une boite de carton avec une nappe rouge dessus.<br> <br>
+  C'est pas encore décidé si la table va être une vraie table qui se pete facilement ou une boite de carton avec une nappe rouge dessus.
+<br> <br>
   -Apporter un laptop <br>
   le laptop serait la facon d'apporter un autre bit en jeu (montrer un post, montrer des preuves de l'arrestation, mettre quelqu'un en video call, montrer l'image liché lors du dernier film)
 
@@ -16,6 +17,9 @@ Ici sont les entrées plus ou moins détaillées d'idées de bits possibles pour
   (Si possible determiner si on filme le publique le même jour que l'interview ou non)<br>
   -Invité reconnaissable de certains<br>
   l'idée d'avoir quelqu'un d'assez reconnaissable mais jaimais mentionné nul part.
+<br> <br>
+  -pêcheur dans le publique<br>
+  Avoir le pêcheur présent dans le publique et faire en sorte qu'il interagit de son siège avec le poisshomme.
 
 
 
