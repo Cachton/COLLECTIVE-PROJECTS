@@ -4,7 +4,7 @@ Ici sont les entrées plus ou moins détaillées d'idées de bits possibles pour
 
 <h3> LA SCÈNE</h3>
   -La table <br>
-  C'est pas encore décidé si la table va être une vraie table qui se pete facilement ou une boite de carton avec une nappe rouge dessus.
+  C'est pas encore décidé si la table va être une vraie table qui se pete facilement ou une boite de carton avec une nappe rouge dessus.<br> <br>
 
 <h3> DEHORS</h3>
   -L'arrestation <br>
