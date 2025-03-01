@@ -6,8 +6,8 @@ Ici sont les entrées plus ou moins détaillées d'idées de bits possibles pour
   -La table <br>
   C'est pas encore décidé si la table va être une vraie table qui se pete facilement ou une boite de carton avec une nappe rouge dessus.
 <br> <br>
-  -Apporter un laptop <br>
-  le laptop serait la facon d'apporter un autre bit en jeu (montrer un post, montrer des preuves de l'arrestation, mettre quelqu'un en video call, montrer l'image liché lors du dernier film)
+  -Apporter un support visuel<br>
+  Un support visuel serait la facon d'apporter d'autres bits en jeu (montrer un post, montrer des preuves de l'arrestation, mettre quelqu'un en video call, montrer l'image liché lors du dernier film)
 
 <h3> DEHORS</h3>
   -L'arrestation <br>
